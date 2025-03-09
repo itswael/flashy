@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bef77de4-ead8-416c-9912-71fda6ca46e6" name="Changes" comment="project initialization">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flashy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flashy.iml" afterDir="false" />
+    <list default="true" id="bef77de4-ead8-416c-9912-71fda6ca46e6" name="Changes" comment="implemented window and canvas with front image">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +40,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -71,11 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1741553271026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implemented window and canvas with front image">
+      <option name="closed" value="true" />
+      <created>1741554293747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741554293747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project initialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="project initialization" />
+    <MESSAGE value="implemented window and canvas with front image" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented window and canvas with front image" />
   </component>
 </project>
